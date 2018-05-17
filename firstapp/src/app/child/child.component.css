@@ -1,0 +1,19 @@
+.unit1{
+    height:300px;
+    width: 220px;
+    background-color: green;
+    color: rgb(8,8,66);
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.unit2{
+    height:300px;
+    width: 220px;
+    background-color: yellow;
+    color: rgb(8,8,66);
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
